@@ -162,3 +162,10 @@ Developed by Fernando Furtado © 2025
 
 ##### - Access the container on [Docker - click here](https://hub.docker.com/r/furtadofernando/UFG-api)
 ##### - Access GitHub [GitHub - click here](https://github.com/Fernando-EngComputacao/UFG-api)
+
+---
+
+<div align="center">
+  <p>Desenvolvido com ❤️ por Fernando Furtado</p>
+  <p>PPGCC - INF/UFG - 2025</p>
+</div>
