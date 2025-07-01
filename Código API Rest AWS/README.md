@@ -1,10 +1,10 @@
-# BXTecnologia.API
+# UFG.API
 
 REST API for customer management and profile images with secure storage in AWS S3.
 
 ## 📋 About the Project
 
-BXTecnologia.API is a REST API developed in .NET 8 that offers functionalities for managing customers and their profile images. The system allows uploading, updating, viewing, and deleting profile images, with secure storage in Amazon S3.
+UFG.API is a REST API developed in .NET 8 that offers functionalities for managing customers and their profile images. The system allows uploading, updating, viewing, and deleting profile images, with secure storage in Amazon S3.
 
 ## 🚀 Technologies Used
 
@@ -50,7 +50,7 @@ The project follows a clean architecture with clear separation of responsibiliti
 ## 📦 Project Structure
 
 ```
-BXTecnologia.API/
+UFG.API/
 ├── Core/                     # Reusable core components
 │   ├── Config/               # Application configurations
 │   │   ├── Interfaces/       # Interfaces for configurations
@@ -100,7 +100,7 @@ BXTecnologia.API/
 
 Images are securely stored in Amazon S3, with the following characteristics:
 
-- Bucket: `bxtecnologiabucket`
+- Bucket: `UFGbucket`
 - Support for non-GUID identifiers (such as "2-2ke")
 - Image processing for optimization
 - Upload limitation based on user level
@@ -125,8 +125,8 @@ The project implements a robust validation and exception handling system:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/BXTecnologia.API.git
-   cd BXTecnologia.API
+   git clone https://github.com/your-username/UFG.API.git
+   cd UFG.API
    ```
 
 2. Configure environment variables or the `appsettings.json` file with:
@@ -148,17 +148,17 @@ The project implements a robust validation and exception handling system:
 
 1. Build the Docker image
    ```bash
-   docker build -t bxtecnologia-api .
+   docker build -t UFG-api .
    ```
 
 2. Run the container
    ```bash
-   docker run -p 8080:80 bxtecnologia-api
+   docker run -p 8080:80 UFG-api
    ```
    
 ## Developer
 
 Developed by Fernando Furtado © 2025
 
-##### - Access the container on [Docker - click here](https://hub.docker.com/r/furtadofernando/bxtecnologia-api)
-##### - Access GitHub [GitHub - click here](https://github.com/Fernando-EngComputacao/bxtecnologia-api)
+##### - Access the container on [Docker - click here](https://hub.docker.com/r/furtadofernando/UFG-api)
+##### - Access GitHub [GitHub - click here](https://github.com/Fernando-EngComputacao/UFG-api)
