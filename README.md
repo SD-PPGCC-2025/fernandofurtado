@@ -5,7 +5,7 @@ Este repositório contém trabalhos e projetos desenvolvidos durante o programa 
 Abaixo está uma descrição do conteúdo de cada pasta:
 
 ## 1. Apresentação Artigo
-Contém a apresentação em PDF do artigo acadêmico desenvolvido.
+Contém a apresentação em PDF do artigo acadêmico escolhido, elucidado na apresentação.
 - `Apresentação_artigo.pdf`: Apresentação do artigo em formato PDF.
 
 ## 2. Apresentação Lamport
