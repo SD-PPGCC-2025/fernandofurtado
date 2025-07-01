@@ -1,10 +1,19 @@
 # 📚 Repositório de Trabalhos - Fernando Furtado
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PPGCC-INF%20UFG-0078D7?style=for-the-badge&logo=university&logoColor=white" alt="PPGCC INF UFG">
-  <img src="https://img.shields.io/badge/Ano-2025-34A853?style=for-the-badge" alt="Ano 2025">
-  <img src="https://img.shields.io/badge/Disciplina-Sistemas%20Distribuídos-4285F4?style=for-the-badge" alt="Sistemas Distribuídos">
+  <!-- Substitua o link abaixo pela URL da sua foto de perfil -->
+  <img src="https://avatars.githubusercontent.com/u/78055338?v=4" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 4px solid #4285F4;" alt="Foto de Fernando Furtado">
+  
+  <h1>Fernando Furtado</h1>
+  
+  <div>
+    <img src="https://img.shields.io/badge/PPGCC-INF%20UFG-0078D7?style=for-the-badge&logo=university&logoColor=white" alt="PPGCC INF UFG">
+    <img src="https://img.shields.io/badge/Ano-2025-34A853?style=for-the-badge" alt="Ano 2025">
+    <img src="https://img.shields.io/badge/Disciplina-Sistemas%20Distribuídos-4285F4?style=for-the-badge" alt="Sistemas Distribuídos">
+  </div>
 </div>
+
+---
 
 ## 🚀 Sobre o Repositório
 
