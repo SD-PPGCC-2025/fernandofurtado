@@ -1,10 +1,7 @@
 # 📚 Repositório de Trabalhos - Fernando Furtado
 
 <div align="center">
-  <!-- Substitua o link abaixo pela URL da sua foto de perfil -->
-  <div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden; margin: 0 auto; border: 4px solid #4285F4;">
-    <img src="https://avatars.githubusercontent.com/u/78055338?v=4" width="150" height="150" style="object-fit: cover; width: 100%; height: 100%;" alt="Foto de Fernando Furtado">
-  </div>
+  <img src="https://avatars.githubusercontent.com/u/78055338?v=4" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 4px solid #4285F4;" alt="Foto de Fernando Furtado">
   
   <h1>Fernando Furtado</h1>
   
