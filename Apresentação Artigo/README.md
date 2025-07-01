@@ -14,8 +14,29 @@
 
 # 📝 Apresentação de Artigo Científico
 
-## 📋 Sobre
-Este diretório contém a apresentação em formato PDF do artigo científico desenvolvido para a disciplina de Sistemas Distribuídos do PPGCC/INF/UFG.
+## 📋 Sobre o Artigo
+
+**Título:** Toward integrated Cloud-Fog networks for efficient IoT provisioning: Key challenges and solutions  
+**Autores:** Muhammad Usman Shahid, Muhammad Usman, Faisal Riaz, Muhammad Rizwan, Kashif Bilal, Albert Y. Zomaya  
+**Publicado em:** Future Generation Computer Systems, Volume 88, Novembro 2018, Páginas 606-613  
+**DOI:** [10.1016/j.future.2018.06.018](https://doi.org/10.1016/j.future.2018.06.018)  
+**Link:** [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0167739X1830596X)
+
+### 📚 Resumo
+O artigo aborda a integração entre redes Cloud-Fog para provisionamento eficiente de IoT, discutindo desafios e soluções. A pesquisa propõe uma arquitetura que combina os benefícios da computação em nuvem e em névoa (fog) para melhorar a eficiência na prestação de serviços de IoT.
+
+### 🎯 Principais Tópicos
+- Arquitetura integrada Cloud-Fog para IoT
+- Desafios no provisionamento de recursos
+- Soluções para otimização de desempenho
+- Estudo de caso e avaliação de desempenho
+
+### 📄 Conteúdo da Apresentação
+A apresentação em PDF contém uma análise detalhada do artigo, incluindo:
+- Contextualização do problema
+- Metodologia proposta
+- Resultados e discussões
+- Conclusões e trabalhos futuros
 
 ## 📄 Conteúdo
 - `Apresentação_artigo.pdf`: Apresentação contendo os principais pontos do artigo, incluindo:
