@@ -1,3 +1,17 @@
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/78055338?v=4" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 4px solid #4285F4;" alt="Fernando Furtado's Photo">
+  
+  <h1>Fernando Furtado</h1>
+  
+  <div>
+    <img src="https://img.shields.io/badge/PPGCC-INF%20UFG-0078D7?style=for-the-badge&logo=university&logoColor=white" alt="PPGCC INF UFG">
+    <img src="https://img.shields.io/badge/Year-2025-34A853?style=for-the-badge" alt="Year 2025">
+    <img src="https://img.shields.io/badge/Subject-Distributed%20Systems-4285F4?style=for-the-badge" alt="Distributed Systems">
+  </div>
+</div>
+
+---
+
 # UFG.API
 
 REST API for customer management and profile images with secure storage in AWS S3.
